@@ -1,7 +1,25 @@
-## Welcome to UAC Computer Programming Course
+# Welcome to UAC Computer Programming Course
 
-### Week 1
-
+## Week 1
+### Lesson 1
+  Installing python:
+  - Goto the [python site](https://www.python.org/downloads/release/python-385/python-3.8.5.exe)
+  - Run the installation and note the path python is installed in
+  - Go to the control panel
+  - Go to system & secuirty
+  - Go to to system
+  - On the left click advanced settings
+  - Click enviroment variables
+  - Select the path enviroment variable
+  - Click new
+  - Enter the path python was installed in
+  
+  Testing python:
+  ```terminal
+  C:/Users/username>python --version
+  Python 3.8.5
+  
+  ```
 
 ```markdown
 Syntax highlighted code block
