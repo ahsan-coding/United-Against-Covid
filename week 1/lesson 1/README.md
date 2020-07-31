@@ -1,8 +1,6 @@
-# Week 1
+# Lesson 1
 
-## Lesson 1
-
-### Installing python:
+## Installing python:
 
 - Go to the [python site](https://www.python.org/downloads/release/python-385/python-3.8.5.exe)
 - Run the installation and note the path python is installed in
@@ -15,11 +13,11 @@
 - Click new
 - Enter the path python was installed in
 
-### Installing a text editor:
+## Installing a text editor:
 
 - Go to the [sublime text site](https://www.sublimetext.com/) or the [notepad++ site](https://notepad-plus-plus.org/downloads/) and install the editors
 
-### Testing python:
+## Testing python:
 
 - Enter `python --version` in your terminal/command prompt
 - The expected output is `Python 3.8.5` or another version
@@ -29,7 +27,7 @@ C:\Users\username>python --version
 Python 3.8.5
 ```
 
-### Making your first python file:
+## Making your first python file:
 
 - Create a new folder in documents and name it something like "python-tutorials"
 - Open your editor and press Ctrl + N (or Cmd + N for mac) and naviaget to the folder you made.
@@ -53,7 +51,7 @@ C:\Users\username\Documents\pythonTutorials>python first.py
 Hello my name is Ameer I am 16 years old. The statement I like purple is True.
 ```
 
-### Project:
+## Project:
 
 - Create a custom command line output that says your name, age and favourite color
   Example output:
