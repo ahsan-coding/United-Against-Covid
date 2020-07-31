@@ -1,8 +1,7 @@
 ## Welcome to UAC Computer Programming Course
 
-### Markdown
+### Week 1
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
