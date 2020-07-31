@@ -23,7 +23,6 @@
   ```terminal
   C:\Users\username>python --version
   Python 3.8.5
-  
   ```
 
   ### Making your first python file:
@@ -52,7 +51,14 @@
   ### Project:
   - Create a custom command line output that says your name, age and favourite color
   Example output:
-  ![Image](https://gyazo.com/290f110d9737eb086b1851c29b677dfc)
+  ```
+  "                                           "
+  " ---------- Ameers Welcome Script ---------"
+  "|         My name is Ameer Hamoodi         |"
+  "|            I am 16 years old             |"
+  "|         My favourite color is blue       |"
+  " ----------------- END --------------------"
+  ```
 
 ```markdown
 Syntax highlighted code block
