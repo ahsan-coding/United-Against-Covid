@@ -6,9 +6,9 @@
 - Example:
 
 ```python
-  if true:
+  if True:
     # do this code
-  elif true:
+  elif True:
     # do some different code
   else:
     # if all else fails do this code
