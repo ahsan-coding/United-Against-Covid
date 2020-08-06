@@ -1,0 +1,25 @@
+# Ahsan Mazhar
+# August 6th, 2020
+
+item = "Frozen Pizza" #Inputs the name of the item 
+coins = 450 #Inputs the cost of the item in coins 
+dollar = coins/100 #Inputs the cost of the item in dollars 
+shipping = 0.00 #Inputs the temporary value of the shipping variable
+GST = dollar * 0.13 #Inputs the total value of the GST tax
+
+if (dollar < 10): #Excecutes if the price of the item is greater than $10.00
+	shipping = 2.00
+
+else: #Excecutes if the price of the item is not greater than $10.00
+	shipping = 3.00
+	
+total = dollar + shipping + GST #Calculates the total cost of the purchase
+
+print("Item: " + item) #Outputs the name of the item 
+print("Price in coins " + str(coins)) #Outputs the price of the item in coins 
+print("Invoice") 
+print("  Price: $ " + format(dollar, '.2f')) #Outputs the price of the item 
+print("  Shipping: $ " + format(shipping, '.2f')) #Outputs the cost of shipping
+print("  GST: $ " + format(GST, '.2f')) #Outputs the GST tax
+print("  Total: $ " + format(total, '.2f')) #Outputs the total cost of the purchase
+
